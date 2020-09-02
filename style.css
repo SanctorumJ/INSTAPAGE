@@ -35,8 +35,9 @@ body {
 
 .instagram.phone img {
     height: 50rem;
-    max-width: 400px;
-    max-height: 500px;
+    max-width: 100px;
+    max-height: 200px;
+    background-color: rgb(160, 160, 160);
 }
 
 .instagram-continue {
